@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Org-hub</string>
+    <string-array name="arr">
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>PINK</item>
+        <item>YELLOW</item>
+    </string-array>
+
+    <string name="old"> A gray old woman sits all alone \n
+Unloved uncherished and unknown \n
+Sitting beside her broken door \n
+Dreaming of days past long ago \n
+When children played about her knee \n
+Filling the air with childish glee \n
+Tended by her with loving care \n
+Knowing the blessing of a Mother prayer \n
+But now they have gone each to his life \n
+A girl to her husband a boy to his wife \n
+Forgetful are they of her who sits here \n
+Silently wiping a tricking tear \n
+For striving for things in a life so brief \n
+Blind their poor eyes to a dear Mother grief \n
+But does she upbraid them in word or in mind \n
+Nor does their neglect to her seem unkind \n
+She will forgive and forget all unkindness they have shown \n
+This poor old mother who sits alone \n
+
+</string>
+
+    <string name="oldq"> Make them count their age by FRIENDS not years, by SMILE not tears \! </string>
+
+    <string name="ngo">
+        Go spread to the needy,
+        sweet charity bread\n
+        For giving is living ,
+        the angel said \n
+        Oh must I be giving again and again ,
+        My peevish and willful answer ran \n
+        Oh no said the angel ,
+        piercing me through \n
+        Just give till the Lord ,
+        stops giving to you\n
+    </string>
+
+    <string name="ngoq"> Because charity is a way to nation\'s prosperity</string>
+
+    <string name="orphan">
+        When I wake up in the morning
+I look around and something’s just not there\n
+No mommy … No daddy to wake me up
+It really isn’t fair\n\n
+        I have 60 friends to share my time
+And there are my carers too\n
+Sometimes we get volunteers
+For excursions at the zoo\n\n
+
+My clothes are all packed away
+Inside my slide-out draw\n
+My shoes are stacked up in a row
+With 59 others … at the door\n\n
+
+I have food in my belly
+Bath twice a day … it’s really not so bad\n
+But what I’d give for a bedside story
+Read to me by Mum or dad\n\n
+
+        What did I do that is so wrong?
+What have I done so bad?\n
+That I should have to live my life
+Without both mum and dad\n
+
+I have lived here since I was one
+That was five years ago\n
+Sometimes life just flashes by
+But some days it goes real slow\n
+
+I wake up often in my sleep
+I’m afraid to lose my toys\n
+When I turn seven … Is time to move
+To live with 175 older boys\n
+
+
+For 10 more years I need to wait
+Until the day that I’m set free\n
+When I can finally leave this orphanage
+And rely just on me\n
+
+I promise that when I have children
+I will be there … To take care\n
+To tuck them in to bed at night
+And let them know I’m there\n
+
+If you can share some of your wealth
+For a better future is my goal\n
+Knowing your money is helping orphans
+Will be like feeding your own soul\n
+
+    </string>
+
+    <string name="orphanq">
+        All they need is a little help, a little hope and someone who believes in them!
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

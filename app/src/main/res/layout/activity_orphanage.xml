@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/a"
+    tools:context="com.example.hi_tech1.swipe.Orphanage">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="NGO form"
+    android:id="@+id/textView2"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="add"
+    android:id="@+id/call"
+    android:layout_alignTop="@+id/maps"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="delete"
+    android:id="@+id/maps"
+    android:layout_marginTop="27dp"
+    android:layout_below="@+id/editText8"
+    android:layout_alignRight="@+id/editText7"
+    android:layout_alignEnd="@+id/editText7" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="View"
+    android:id="@+id/button4"
+    android:layout_below="@+id/call"
+    android:layout_alignLeft="@+id/call"
+    android:layout_alignStart="@+id/call" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="update"
+    android:id="@+id/button5"
+    android:layout_below="@+id/maps"
+    android:layout_alignLeft="@+id/email"
+    android:layout_alignStart="@+id/email" />
+
+<EditText
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/your_name"
+    android:hint="Code number"
+    android:layout_below="@+id/textView2"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_marginTop="39dp" />
+
+<EditText
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/your_phone"
+    android:hint="Orphanage name"
+    android:layout_below="@+id/your_name"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true" />
+
+
+<EditText
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/editText4"
+    android:hint="Phone number"
+    android:inputType="phone"
+    android:layout_below="@+id/your_phone"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true" />
+
+<EditText
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:inputType="textEmailAddress"
+    android:ems="10"
+    android:id="@+id/editText5"
+    android:hint="Email id"
+    android:layout_below="@+id/editText4"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="View all"
+    android:id="@+id/button6"
+    android:background="#ffdd33"
+    android:layout_below="@+id/button4"
+    android:layout_alignLeft="@+id/button4"
+    android:layout_alignStart="@+id/button4" />
+
+<EditText
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/editText6"
+    android:layout_below="@+id/editText5"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:hint="Address" />
+
+<EditText
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/editText8"
+    android:layout_below="@+id/editText6"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:hint="lattitude" />
+
+<EditText
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/editText7"
+    android:layout_above="@+id/call"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:hint="longitude" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="User signup"
+    android:id="@+id/email"
+    android:background="#ffdd33"
+    android:layout_below="@+id/button5"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="RESET"
+    android:id="@+id/button"
+    android:layout_below="@+id/call"
+    android:layout_alignRight="@+id/textView2"
+    android:layout_alignEnd="@+id/textView2" />
+
+
+
+
+
+
+</RelativeLayout>

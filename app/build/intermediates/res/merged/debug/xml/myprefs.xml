@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory  android:title="Scheduled Do Not Disturb Mode">
+        <SwitchPreference android:title="Vibration Mode"
+            android:icon="@drawable/pic1"
+            android:switchTextOff="OFF"
+            android:summary="Vibration "
+            android:summaryOn="ON"
+            android:summaryOff="OFF"
+            android:key="vibdnd"/>
+
+        <EditTextPreference android:title="Start Time" ></EditTextPreference>
+        <EditTextPreference android:title="End Time" ></EditTextPreference>
+
+
+    </PreferenceCategory>
+</PreferenceScreen>

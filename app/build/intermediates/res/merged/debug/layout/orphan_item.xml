@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logo"
+    android:alpha="0.5">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/select_id"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#aa3345"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="name"
+        android:id="@+id/select_name"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ff2211"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/select_phone"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ff2211"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/select_email"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ff2211"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/select_address"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ff2211"
+        android:textSize="20dp" />
+
+</LinearLayout>

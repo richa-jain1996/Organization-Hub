@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radioGroup" type="id" />
+    <item name="action_settings" type="id" />
+    <item name="lin_lay" type="id" />
+    <item name="splash" type="id" />
+</resources>
